@@ -38,3 +38,7 @@ Every shot follows the **Golden Rule** to eliminate visual drift:
 
 ## Skills & Reference
 - Skill definition: [`Google_Flow_SKILL.md`](file:///c:/Users/admin/Desktop/Github%20repos/yt-videos-script/Google_Flow_SKILL.md) & [`.agents/skills/google-flow/SKILL.md`](file:///c:/Users/admin/Desktop/Github%20repos/yt-videos-script/.agents/skills/google-flow/SKILL.md)
+
+## Contributers
+- Vishwa
+- Shashank
